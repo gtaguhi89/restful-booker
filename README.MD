@@ -49,8 +49,8 @@ This automation suite is written in TypeScript and uses Playwright API testing f
 restful-booker/
 │
 ├── tests/
-│   ├── api/
-│   │   └── booking_api.spec.ts
+│   └── api/
+│       └── booking_api.spec.ts
 │
 ├── fixtures/
 │   └── sample-data.json
